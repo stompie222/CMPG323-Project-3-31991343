@@ -1,8 +1,8 @@
 # CMPG323-Project-3-31991343
 
-## Project Name:
+## Project name:
 Project 3 - Enhancing and Improving ASP.NET Core Web Application
-
+<br>
 ## Description:
 This project involves enhancing and improving an existing ASP.NET Core MVC web application. The goal is to understand architectural patterns, implement coding principles, and design patterns to meet the project's requirements.
 <br>
