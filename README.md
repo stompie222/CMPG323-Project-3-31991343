@@ -41,3 +41,11 @@ Visual Studios 2022 Community edition.
 Clone the Repository: Clone this repository to your local machine.
 <br>
 Setup: Configure any necessary settings and dependencies by following the instructions in the project's documentation.
+<br>
+<br>
+### steps to use:
+1. Register account and log in.
+2. The user can then browse, manage, edit, remove or add anything they wants to.
+
+## Secret Keys:
+Sensitive information like database connection strings was saved in a appsettings.json and then that file was saved to the gitignore file as tp exclude it from the repository.
